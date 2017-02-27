@@ -1,2 +1,5 @@
-# spring2017
-githubを学びます。
+# スプリングコース
+前納先生と遊ぼう。
+##やること
+*GitとGitHubとJavaScript
+*Node.jsとSocket.io
