@@ -3,3 +3,5 @@
 ##やること
 *GitとGitHubとJavaScript
 *Node.jsとSocket.io
+*MongoDBとMongoose
+*楽しく作ればいいと思う
